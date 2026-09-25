@@ -40,3 +40,15 @@ The download is a standard Magento 2 module that installs under `app/code/Sipay/
 ## Support
 
 For questions and integration support, please contact Sipay.
+
+## Security
+
+If you believe you have found a security vulnerability in this plugin, please report it privately to **[infosec@sipay.com.tr](mailto:infosec@sipay.com.tr)**. Please do not open a public GitHub issue, pull request, or discussion for security reports.
+
+To help us triage your report quickly, please include:
+
+- the plugin version and platform version affected,
+- a description of the issue and its potential impact,
+- steps to reproduce or a proof of concept, if available.
+
+We will acknowledge your report, investigate it, and keep you informed of our progress. Please give us reasonable time to release a fix before disclosing the issue publicly. We always recommend using the latest release, which includes the most recent security updates.
